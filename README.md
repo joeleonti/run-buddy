@@ -12,3 +12,5 @@ https://joeleonti.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Joe Leonti
+
+### ©️2019 Run Buddy, Inc 
